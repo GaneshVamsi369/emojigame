@@ -1,0 +1,19 @@
+/* Write your code here. */
+li {
+  list-style-type: none;
+}
+.pic {
+  width: 250px;
+  height: 230px;
+  padding: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 45px;
+  border-radius: 18px;
+  border: 1px solid #ffffff30;
+  background-color: #ffffff33;
+}
+.imgs {
+  width: 130px;
+}

@@ -1,0 +1,26 @@
+/* Write your code here. */
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: #ffffff33;
+  color: #fff;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  flex-basis: 80%;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+.logo img {
+  width: 24px;
+}
+.scores {
+  display: flex;
+  align-items: center;
+}
+.scores p {
+  margin-right: 30px;
+}

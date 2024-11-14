@@ -1,0 +1,23 @@
+/* Write your code here. */
+.bg {
+  height: 100vh;
+  background-size: inherit;
+  background-image: linear-gradient(to bottom right, #9796f0, #fbc7d4);
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.listcontainer {
+  display: flex;
+  width: 80%;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
